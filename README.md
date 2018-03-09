@@ -14,6 +14,10 @@ Whether you work in an organization that uses test-driven development or in an o
 
 You will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
+## Instructions
+To view the feedreader website download all the files and open index.html in your browser.
+
+Alternatively, you can view the site on github pages by using the link (https://github.com/olaglal/feedreader)
 
 ## Tests
 RSS Feeds:
